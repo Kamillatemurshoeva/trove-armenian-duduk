@@ -69,6 +69,3 @@ This repository contains **metadata only** collected from Trove.
 
 Please see [DATA_RIGHTS.md](DATA_RIGHTS.md) for the attribution and rights statement.
 
-## Maintainer
-
-Prepared for **Open Data Armenia**.
